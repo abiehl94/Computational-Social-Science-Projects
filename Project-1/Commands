@@ -1,0 +1,17 @@
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) austins-air:~ austinbiehl$ git clone 
+https://github.com/abiehl94/Computational-Social-Science-Projects.git
+Cloning into 'Computational-Social-Science-Projects'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+(base) austins-air:~ austinbiehl$ cd Computational-Social-Science-Projects/
+(base) austins-air:Computational-Social-Science-Projects austinbiehl$ mkdir Project-1
+(base) austins-air:Computational-Social-Science-Projects austinbiehl$ cd Project-1/
+(base) austins-air:Project-1 austinbiehl$ nano Commands
+(base) Austins-MacBook-Air:CSS-First-Repository austinbiehl$ nano Commands
+(base) Austins-MacBook-Air:CSS-First-Repository austinbiehl$ git add *
+(base) Austins-MacBook-Air:CSS-First-Repository austinbiehl$ git commit -m “committing initial 
+command line prompts”
