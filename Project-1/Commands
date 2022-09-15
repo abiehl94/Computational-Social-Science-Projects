@@ -15,3 +15,4 @@ Receiving objects: 100% (3/3), done.
 (base) Austins-MacBook-Air:CSS-First-Repository austinbiehl$ git add *
 (base) Austins-MacBook-Air:CSS-First-Repository austinbiehl$ git commit -m “committing initial 
 command line prompts”
+(base) Austins-MacBook-Air:CSS-First-Repository austinbiehl$ git push
